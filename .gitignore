@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environment variables (contains secrets)
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Uploaded files (runtime data)
+uploads/*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.ps1
